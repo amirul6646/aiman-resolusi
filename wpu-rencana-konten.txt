@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
 *ES6
 *frame javascript
   *view
+  *react
 -struktur data dasar
 -php framework
  *laravel
