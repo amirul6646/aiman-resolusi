@@ -4,3 +4,4 @@ AMIRUL RESOLUSI
 - buat website
 -buat shop
 -kolabarasi dengan lebih banyak expert
+-hello world
